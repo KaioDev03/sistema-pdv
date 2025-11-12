@@ -1,0 +1,24 @@
+# Ambiente virtual
+venv/
+__pycache__/
+
+# Arquivos de banco de dados
+*.db
+
+# Arquivos compilados do Python
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Configurações e cache do VSCode
+.vscode/
+*.log
+
+# Pasta de uploads (se for criar futuramente)
+uploads/
+
+# Arquivos temporários
+*.tmp
+
+venv/
